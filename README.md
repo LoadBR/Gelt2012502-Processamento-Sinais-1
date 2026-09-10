@@ -18,7 +18,8 @@ A primeira atividade prática aborda conceitos fundamentais de sinais e sistemas
 
 ## Estrutura do repositório
 
-Gelt2012502-Processamento-Sinais-1
+```text
+Gelt2012502-Processamento-Sinais-1/
 │
 ├── README.md
 ├── .gitignore
@@ -41,6 +42,7 @@ Gelt2012502-Processamento-Sinais-1
     │
     └── Relatorio/
         └── relatório final da Aula Prática 1
+```
 
 ## Ferramentas utilizadas
 
@@ -48,26 +50,27 @@ O desenvolvimento da atividade foi realizado principalmente em Python, utilizand
 
 Principais bibliotecas utilizadas:
 
-NumPy;
-SciPy;
-Matplotlib;
-IPython.
+- NumPy;
+- SciPy;
+- Matplotlib;
+- IPython.
 
 
 ## Execução
 
 O notebook principal da Aula Prática 1 está localizado em:
-- Aula-01/Codigo/AP1_Sinais_e_Sistemas.ipynb
+
+`Aula-01/Codigo/AP1_Sinais_e_Sistemas.ipynb`
 
 O arquivo pode ser aberto diretamente no Google Colab ou executado em um ambiente Jupyter com as dependências necessárias instaladas.
+
 Os arquivos de entrada utilizados pelos experimentos estão localizados em:
-- Aula-01/Dados/
+
+`Aula-01/Dados/`
 
 Os gráficos e sinais gerados durante o processamento são armazenados em:
-- Aula-01/Resultados/
 
-Os gráficos e sinais gerados durante o processamento são armazenados em:
--  Aula-01/Resultados/
+`Aula-01/Resultados/`
 
 ## Reprodutibilidade
 
