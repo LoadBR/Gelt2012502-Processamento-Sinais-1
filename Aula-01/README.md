@@ -13,7 +13,7 @@ Atividade prática da disciplina GELE7317 — Processamento de Sinais I
 
 ## Organização
 
-- `codigo/` — códigos utilizados nos experimentos;
-- `dados/` — sinais e arquivos de entrada;
-- `resultados/` — figuras e sinais gerados;
-- `relatorio/` — relatório final da atividade.
+- `Codigo/` — códigos utilizados nos experimentos;
+- `Dados/` — sinais e arquivos de entrada;
+- `Resultados/` — figuras e sinais gerados;
+- `Relatorio/` — relatório final da atividade.
