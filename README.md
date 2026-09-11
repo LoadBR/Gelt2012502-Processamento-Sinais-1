@@ -74,6 +74,8 @@ Os gráficos e sinais gerados durante o processamento são armazenados em:
 
 ## Reprodutibilidade
 
+Python 3.13.15
+
 As dependências utilizadas no projeto são documentadas no arquivo:
 - requirements.txt
 
