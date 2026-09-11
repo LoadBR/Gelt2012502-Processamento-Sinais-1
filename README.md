@@ -60,9 +60,12 @@ Principais bibliotecas:
 
 ## Instalação
 
-Clone o repositório: git clone https://github.com/LoadBR/Gelt2012502-Processamento-Sinais-1.git
+- Clone o repositório: git clone https://github.com/LoadBR/Gelt2012502-Processamento-Sinais-1.git
 cd Gelt2012502-Processamento-Sinais-1
 
+- Instale as dependências: pip install -r requirements.txt
+
+- O notebook também pode ser executado diretamente no Google Colab. 
 
 ## Execução
 
