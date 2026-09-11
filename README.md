@@ -58,6 +58,11 @@ Principais bibliotecas:
 - Matplotlib 3.10.0
 - IPython 7.34.0
 
+## Instalação
+
+Clone o repositório: git clone https://github.com/LoadBR/Gelt2012502-Processamento-Sinais-1.git
+cd Gelt2012502-Processamento-Sinais-1
+
 
 ## Execução
 
