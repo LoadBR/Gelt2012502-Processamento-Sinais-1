@@ -46,14 +46,17 @@ Gelt2012502-Processamento-Sinais-1/
 
 ## Ferramentas utilizadas
 
-O desenvolvimento da atividade foi realizado principalmente em Python, utilizando o Google Colab como ambiente de execução.
+O desenvolvimento da atividade foi realizado em Python utilizando o Google Colab como ambiente principal de execução.
 
-Principais bibliotecas utilizadas:
+Ambiente utilizado:
+- Python 3.13.15
+- Google Colab
 
-- NumPy;
-- SciPy;
-- Matplotlib;
-- IPython.
+Principais bibliotecas:
+- NumPy 2.1.3
+- SciPy 1.16.3
+- Matplotlib 3.10.0
+- IPython 7.34.0
 
 
 ## Execução
@@ -74,7 +77,6 @@ Os gráficos e sinais gerados durante o processamento são armazenados em:
 
 ## Reprodutibilidade
 
-Python 3.13.15
 
 As dependências utilizadas no projeto são documentadas no arquivo:
 - requirements.txt
