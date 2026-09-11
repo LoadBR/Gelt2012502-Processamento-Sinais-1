@@ -60,12 +60,19 @@ Principais bibliotecas:
 
 ## Instalação
 
-Clone o repositório:
+Para executar o projeto localmente, clone o repositório:
 
-```bash
-git clone https://github.com/LoadBR/Gelt2012502-Processamento-Sinais-1.git
-cd Gelt2012502-Processamento-Sinais-1
-```
+`git clone https://github.com/LoadBR/Gelt2012502-Processamento-Sinais-1.git`
+
+Entre na pasta do projeto:
+
+`cd Gelt2012502-Processamento-Sinais-1`
+
+Instale as bibliotecas necessárias:
+
+`pip install -r requirements.txt`
+
+Como alternativa, o notebook `Aula-01/Codigo/AP1_Sinais_e_Sistemas.ipynb` pode ser aberto e executado diretamente no Google Colab.
 
 ## Execução
 
@@ -98,6 +105,4 @@ O relatório final da Aula Prática 1 está disponível em:
 
 `Aula-01/Relatorio/Relatorio_Aula_Pratica_1.pdf`
 
-O documento apresenta a metodologia utilizada, os principais resultados obtidos, a discussão dos experimentos e as conclusões da atividade.
-- Aula-01/Relatorio/
 O documento apresenta a metodologia utilizada, os principais resultados obtidos, a discussão dos experimentos e as conclusões da atividade.
