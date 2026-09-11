@@ -60,12 +60,12 @@ Principais bibliotecas:
 
 ## Instalação
 
-- Clone o repositório: git clone https://github.com/LoadBR/Gelt2012502-Processamento-Sinais-1.git
+Clone o repositório:
+
+```bash
+git clone https://github.com/LoadBR/Gelt2012502-Processamento-Sinais-1.git
 cd Gelt2012502-Processamento-Sinais-1
-
-- Instale as dependências: pip install -r requirements.txt
-
-- O notebook também pode ser executado diretamente no Google Colab. 
+```
 
 ## Execução
 
@@ -94,6 +94,10 @@ Em um ambiente Python compatível, elas poderão ser instaladas com:
 
 ## Relatório
 
-O relatório final da Aula Prática 1 será disponibilizado em:
+O relatório final da Aula Prática 1 está disponível em:
+
+`Aula-01/Relatorio/Relatorio_Aula_Pratica_1.pdf`
+
+O documento apresenta a metodologia utilizada, os principais resultados obtidos, a discussão dos experimentos e as conclusões da atividade.
 - Aula-01/Relatorio/
 O documento apresenta a metodologia utilizada, os principais resultados obtidos, a discussão dos experimentos e as conclusões da atividade.
